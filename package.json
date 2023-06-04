@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs --open --host \"localhost\"",
     "docs:build": "vuepress build docs",
-    "deploy-gh": "deploy-gh.sh"
+    "deploy-gh": "deploy.sh",
+    "build": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/jacksontao/ConvertWeb#readme",
   "devDependencies": {
-    "vuepress": "^1.9.9"
+    "vuepress": "^1.9.9",
+    "vuepress-theme-vdoing": "^1.12.8"
   }
 }
