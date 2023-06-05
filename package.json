@@ -1,5 +1,5 @@
 {
-  "name": "convertweb",
+  "name": "Blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacksontao/ConvertWeb.git"
+    "url": "git+https://github.com/jacksontao/Blog.git"
   },
   "keywords": [
     "convert"
@@ -19,9 +19,9 @@
   "author": "jackson_tao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jacksontao/ConvertWeb/issues"
+    "url": "https://github.com/jacksontao/Blog/issues"
   },
-  "homepage": "https://github.com/jacksontao/ConvertWeb#readme",
+  "homepage": "https://github.com/jacksontao/Blog#readme",
   "devDependencies": {
     "vuepress": "^1.9.9",
     "vuepress-theme-maker": "^1.2.3",

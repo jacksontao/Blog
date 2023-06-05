@@ -1,7 +1,7 @@
 module.exports = {
     title: "Space",
     description: "This is my blog.",
-    base: '/ConvertWeb/',
+    base: '/Blog/',
     'locales': {
         '/': {
             lang: 'zh-CN',
