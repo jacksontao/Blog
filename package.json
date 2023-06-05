@@ -24,6 +24,10 @@
   "homepage": "https://github.com/jacksontao/ConvertWeb#readme",
   "devDependencies": {
     "vuepress": "^1.9.9",
+    "vuepress-theme-maker": "^1.2.3",
     "vuepress-theme-vdoing": "^1.12.8"
+  },
+  "dependencies": {
+    "vuepress-theme-seeker": "^1.0.9"
   }
 }

@@ -8,6 +8,6 @@ actionLink: /guide/
 
 ---
 ::: slot footer
-MIT Licensed | Copyright © 2022-present [LeafCCC](https://github.com/jacksontao)
+MIT Licensed | Copyright © 2022-present [Jackson](https://github.com/jacksontao)
 :::
 
