@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jacksontao/Blog#readme",
   "devDependencies": {
     "vuepress": "^1.9.9",
+    "vuepress-plugin-go-top": "^1.0.4",
     "vuepress-theme-maker": "^1.2.3",
     "vuepress-theme-vdoing": "^1.12.8"
   },

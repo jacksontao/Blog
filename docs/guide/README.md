@@ -11,7 +11,7 @@ title: 个人介绍
 ## 🎧 最近在听
 - Stupid:MILKK
 - Paradise:G-idle
-- LEEF RIGHT:XG
+- LEFT RIGHT:XG
 
 ## 💻 技术
 
