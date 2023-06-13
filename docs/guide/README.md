@@ -12,6 +12,8 @@ title: 个人介绍
 - Stupid:MILKK
 - Paradise:G-idle
 - LEFT RIGHT:XG
+- Don't Worry About Me:Eso
+- Lalala:bbno$
 
 ## 💻 技术
 

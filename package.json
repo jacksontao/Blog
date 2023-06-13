@@ -26,9 +26,16 @@
     "vuepress": "^1.9.9",
     "vuepress-plugin-go-top": "^1.0.4",
     "vuepress-theme-maker": "^1.2.3",
-    "vuepress-theme-vdoing": "^1.12.8"
+    "vuepress-theme-vdoing": "^1.12.8",
+    "webpack": "^4.44.2"
   },
   "dependencies": {
+    "@vssue/api-github-v4": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.8",
+    "markdown-it-emoji": "^2.0.2",
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-theme-gungnir": "^2.0.0-alpha.26",
+    "vuepress-theme-reco": "^1.6.17",
     "vuepress-theme-seeker": "^1.0.9"
   }
 }
